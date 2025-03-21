@@ -1,45 +1,16 @@
 ## Hi there, I am Minh Phan 👋
 
-<!--
-**minhpnh/minhpnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a final-year IT student with a strong passion for Data Analytics, Data Science, and Cybersecurity. Driven by leadership, I have led various projects, from software development to academic research and data science initiatives. I value respect and dedication, believing that attention to detail and a commitment to excellence lead to high-quality outcomes in every project I undertake.
 ---
 
-<a href="mailto:duongnguyen18@siggraph.org">
-  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+<a href="mailto:pnminh0905@gmail.com">
+  <img height="32" align="left" alt="Gmail" src="img/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+<a href="https://www.facebook.com/pnm0905/">
+  <img height="32" align="left" alt="Facebook" src="img/icons/facebook.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/minhpnh/">
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://twitter.com/zach_duong">
-  <img height="32" align="left" alt="X" src="img/icons/x.png" />
-</a>
-
-<a href="https://paypal.me/dnguy38">
-  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/cszach">
-  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="https://liberapay.com/cszach">
-  <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
-  <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
