@@ -56,8 +56,16 @@ I’m currently completing my **Bachelor’s degree in IT** with a **Data Analyt
 - **Vietnamese**: Native
 
 ## 📫 Connect with Me
-[![Gmail](img/icons/gmail.png)](mailto:pnminh0905@gmail.com) &nbsp;
-[![Facebook](img/icons/facebook.png)](https://www.facebook.com/pnm0905/) &nbsp;
-[![LinkedIn](img/icons/linkedin.png)](https://www.linkedin.com/in/minhpnh/)
+<a href="mailto:pnminh0905@gmail.com">
+  <img height="32" align="left" alt="Gmail" src="img/icons/gmail.png" />
+</a>
+
+<a href="https://www.facebook.com/pnm0905/">
+  <img height="32" align="left" alt="Facebook" src="img/icons/facebook.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/minhpnh/">
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
 
 Looking forward to collaborating and growing together! 🚀
